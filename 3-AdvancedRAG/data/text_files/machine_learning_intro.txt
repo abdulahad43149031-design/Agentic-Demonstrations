@@ -1,0 +1,36 @@
+
+    Machine Learning Introduction
+
+    Machine learning is a branch of artificial intelligence that enables
+    computers to learn patterns from data without being explicitly programmed
+    for every task. Instead of following fixed rules, machine learning models
+    improve their performance by analyzing examples.
+
+    Machine learning is commonly divided into three categories:
+    supervised learning, unsupervised learning, and reinforcement learning.
+    In supervised learning, models are trained using labeled data.
+    Unsupervised learning discovers hidden patterns in unlabeled data,
+    while reinforcement learning teaches an agent to make decisions through
+    rewards and penalties.
+
+    A typical machine learning workflow begins with collecting data,
+    cleaning and preprocessing it, selecting useful features, training
+    a model, evaluating its performance, and finally deploying it for
+    real-world use.
+
+    Popular algorithms include Linear Regression, Logistic Regression,
+    Decision Trees, Random Forests, Support Vector Machines, K-Nearest
+    Neighbors, and Neural Networks. These algorithms are applied to
+    problems such as image classification, spam detection, recommendation
+    systems, fraud detection, speech recognition, and medical diagnosis.
+
+    Python is the most widely used language for machine learning because
+    of its rich ecosystem of libraries. NumPy is used for numerical
+    computing, Pandas for data manipulation, Matplotlib for visualization,
+    Scikit-learn for traditional machine learning algorithms, and PyTorch
+    and TensorFlow for deep learning.
+
+    As the amount of available data continues to grow, machine learning
+    has become an essential technology in industries ranging from finance
+    and healthcare to autonomous vehicles and natural language processing.
+    

@@ -1,0 +1,31 @@
+# AcmeCloud Customer Support Knowledge Base
+
+## Billing
+
+- Customers can request a refund within 30 days of purchase.
+- Refunds are processed within 5-7 business days.
+- Monthly subscriptions can be cancelled anytime from the Account Settings page
+- Annual subscriptions are non-refundable after 30 days.
+
+## Password Reset
+
+- Click "Forgot Password" on the login page.
+- A password reset link is sent to the registered email.
+- The link expires after 15 minutes.
+
+## API
+
+- The base API URL is https://api.acmecloud.com/v1
+- Authentication uses Bearer Tokens.
+- Rate limit is 100 requests per minute.
+
+## Technical Support
+
+- Restarting the application resolves many common issues.
+- Clear the application cache if the dashboard fails to load.
+- Contact support if the issue persists after troubleshooting.
+
+## Contact
+
+- Support Email: support@acmecloud.com
+- Business Hours: Monday to Friday, 9 AM to 6 PM UTC.
